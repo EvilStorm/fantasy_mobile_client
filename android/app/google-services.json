@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761270360924",
+    "project_id": "you-in-factasy",
+    "storage_bucket": "you-in-factasy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761270360924:android:df1561c961db72f7887f99",
+        "android_client_info": {
+          "package_name": "com.hj.yift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761270360924-jl7bue5e64hsam2f92moafh9qgdj50jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UytuH3DNvWTMKTh3ApBYZjeMeGPu3zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761270360924-1hiueu2ffofgbf9h16kkjdgugl0tcl3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
